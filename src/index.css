@@ -1,0 +1,35 @@
+@import "tailwindcss";
+::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    scrollbar-width: none;
+}
+
+
+body, .CodeMirror {
+    overflow: hidden;
+}
+
+
+html, body {
+    overflow: hidden;
+    margin: 0; 
+    height: 100%; 
+}
+
+
+.CodeMirror {
+    overflow: hidden !important; 
+}
+
+
+iframe {
+    overflow: hidden !important;
+}
+
+
+.left, .right, .middle {
+    overflow: hidden;
+}

@@ -1,0 +1,12 @@
+.CodeMirror-scroll {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+}
+
+.CodeMirror-scroll::-webkit-scrollbar { 
+    display: none; /* Safari and Chrome */
+}
+.CodeMirror {
+    overflow: hidden; 
+    white-space: normal; 
+  }
