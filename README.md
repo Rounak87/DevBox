@@ -2,7 +2,10 @@
 
 # 🚀 DevBox - The Ultimate Online Code Editor  
 
-**DevBox** is a powerful, minimal, and modern web-based **code editor** designed for seamless **HTML, CSS, and JavaScript** development. With a sleek UI and real-time preview, DevBox provides a smooth coding experience without distractions.  
+
+**DevBox** is a powerful, minimal, and modern web-based **code editor** designed for seamless web development.  
+Built with **React**, featuring a **responsive design**, and enhanced with **CodeMirror** for an intuitive coding experience,  
+DevBox provides a sleek interface for writing and previewing **HTML, CSS, and JavaScript** in real time. 🚀
 
 ---
 
@@ -21,6 +24,10 @@
 1️⃣ **Clone the Repository:**  
 ```bash
 git clone https://github.com/yourusername/devbox.git
-cd devbox
-npm install
-npm run dev
+cd devbox```
+2️⃣ **Clone the Repository:**
+```bash
+npm install```
+3️⃣ **Run the App:**
+```bash
+npm run dev```
