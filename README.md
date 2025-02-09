@@ -1,8 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 DevBox - The Ultimate Online Code Editor  
 
-Currently, two official plugins are available:
+**DevBox** is a powerful, minimal, and modern web-based **code editor** designed for seamless **HTML, CSS, and JavaScript** development. With a sleek UI and real-time preview, DevBox provides a smooth coding experience without distractions.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🌟 Features  
+
+✅ **Live Preview** – Instantly see changes as you code.  
+✅ **Separate Panels** – Organized sections for HTML, CSS, and JavaScript.  
+✅ **Syntax Highlighting** – Powered by CodeMirror for a smooth coding experience.  
+✅ **Dark Mode Aesthetic** – A clean, modern UI with a professional look.  
+✅ **Auto Save (Optional)** – Preserve your work effortlessly.  
+
+---
+
+## 🔧 Installation & Setup  
+
+1️⃣ **Clone the Repository:**  
+```bash
+git clone https://github.com/yourusername/devbox.git
+cd devbox
