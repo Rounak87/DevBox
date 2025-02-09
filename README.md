@@ -12,7 +12,7 @@
 ✅ **Separate Panels** – Organized sections for HTML, CSS, and JavaScript.  
 ✅ **Syntax Highlighting** – Powered by CodeMirror for a smooth coding experience.  
 ✅ **Dark Mode Aesthetic** – A clean, modern UI with a professional look.  
-✅ **Auto Save (Optional)** – Preserve your work effortlessly.  
+ 
 
 ---
 
@@ -22,3 +22,5 @@
 ```bash
 git clone https://github.com/yourusername/devbox.git
 cd devbox
+npm install
+npm run dev
