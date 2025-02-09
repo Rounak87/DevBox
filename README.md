@@ -24,10 +24,7 @@ DevBox provides a sleek interface for writing and previewing **HTML, CSS, and Ja
 1️⃣ **Clone the Repository:**  
 ```bash
 git clone https://github.com/yourusername/devbox.git
-cd devbox```
-2️⃣ **Clone the Repository:**
-```bash
-npm install```
-3️⃣ **Run the App:**
-```bash
-npm run dev```
+cd devbox
+npm install
+npm run dev
+
