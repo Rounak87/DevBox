@@ -23,7 +23,7 @@ DevBox provides a sleek interface for writing and previewing **HTML, CSS, and Ja
 
 1️⃣ **Clone the Repository:**  
 ```bash
-git clone https://github.com/yourusername/devbox.git
+git clone https://github.com/Rounak87/DevBox
 cd devbox
 npm install
 npm run dev
